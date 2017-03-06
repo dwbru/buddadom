@@ -3618,9 +3618,9 @@ h2 span {
 	}
 }
 header {
-	background:url("/assets/images/fest_header.jpg") no-repeat right top;
+	background:url("/assets/images/fest_header.jpg") no-repeat left top;
 	position:relative;
-	height:343px
+	height:481px
 }
 @media (min-width: 601px) and (max-width: 800px) {
 	header {
